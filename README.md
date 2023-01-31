@@ -1,1 +1,2 @@
-for root dir
+for root directory now
+
